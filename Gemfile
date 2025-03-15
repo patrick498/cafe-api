@@ -45,3 +45,5 @@ group :development do
   # gem "spring"
 end
 
+# Custom Added
+gem 'ostruct'
